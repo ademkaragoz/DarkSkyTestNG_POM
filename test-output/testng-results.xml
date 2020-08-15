@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="7" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5035" started-at="2020-08-14T05:11:17 EDT" finished-at="2020-08-14T05:11:22 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5035" started-at="2020-08-14T05:11:17 EDT" finished-at="2020-08-14T05:11:22 EDT">
+      <class name="com.qa.darksky.test.HomePageTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="Setup" is-config="true" duration-ms="3868" started-at="2020-08-14T05:11:17 EDT" finished-at="2020-08-14T05:11:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="clickToday()[pri:1, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="clickToday" duration-ms="599" started-at="2020-08-14T05:11:21 EDT" finished-at="2020-08-14T05:11:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickToday -->
+        <test-method status="PASS" signature="verifyHomeaPageTitle()[pri:2, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="verifyHomeaPageTitle" duration-ms="93" started-at="2020-08-14T05:11:22 EDT" finished-at="2020-08-14T05:11:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeaPageTitle -->
+        <test-method status="PASS" signature="getTempeList()[pri:3, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="getTempeList" duration-ms="242" started-at="2020-08-14T05:11:22 EDT" finished-at="2020-08-14T05:11:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTempeList -->
+        <test-method status="PASS" signature="minTempe()[pri:4, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="minTempe" duration-ms="2" started-at="2020-08-14T05:11:22 EDT" finished-at="2020-08-14T05:11:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minTempe -->
+        <test-method status="PASS" signature="maxTempe()[pri:5, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="maxTempe" duration-ms="2" started-at="2020-08-14T05:11:22 EDT" finished-at="2020-08-14T05:11:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTempe -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="tearDown" is-config="true" duration-ms="141" started-at="2020-08-14T05:11:22 EDT" finished-at="2020-08-14T05:11:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.darksky.test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
